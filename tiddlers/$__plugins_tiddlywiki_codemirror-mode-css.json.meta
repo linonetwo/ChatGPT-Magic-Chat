@@ -1,0 +1,9 @@
+dependents: 
+description: CSS highlighting mode for CodeMirror
+list: readme
+name: CodeMirror Mode CSS
+parent-plugin: $:/plugins/tiddlywiki/codemirror
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/codemirror-mode-css
+type: application/json
+version: 5.2.1

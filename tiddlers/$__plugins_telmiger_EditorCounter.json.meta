@@ -1,0 +1,13 @@
+author: Thomas & Jed
+core-version: >=5.1.13
+created: 20211017092959768
+dependents: 
+description: EditorCounter & Autosaver
+list: readme settings credits support
+modified: 20211017092959768
+name: EditorCounter
+plugin-type: plugin
+source: https://tid.li/tw5/plugins.html
+title: $:/plugins/telmiger/EditorCounter
+type: application/json
+version: 0.6.6

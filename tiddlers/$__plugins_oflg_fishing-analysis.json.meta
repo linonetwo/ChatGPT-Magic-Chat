@@ -1,0 +1,12 @@
+author: oflg
+core-version: >=5.2.3
+dependents: $:/plugins/oflg/fishing $:/plugins/Gk0Wk/echarts
+description: Analysis for Fishing
+list: readme license
+name: Fishing Analysis
+parent-plugin: $:/plugins/oflg/fishing
+plugin-type: plugin
+source: https://github.com/oflg/fishing-analysis
+title: $:/plugins/oflg/fishing-analysis
+type: application/json
+version: 0.4.9

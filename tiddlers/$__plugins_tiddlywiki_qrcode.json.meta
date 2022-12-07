@@ -1,0 +1,9 @@
+author: Zeno Zeng
+dependents: 
+description: QR Code generator
+list: readme usage examples license
+name: QR Code
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/qrcode
+type: application/json
+version: 5.2.1

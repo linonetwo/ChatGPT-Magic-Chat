@@ -1,0 +1,13 @@
+author: Mohammad Rahmani
+core-version: 5.1.24-prerelease
+created: 20211017131622563
+dependents: $:/plugins/tiddlywiki/highlight
+description: Extract the content and stand out specific lines and/or line ranges
+list: readme license history
+modified: 20211017131622563
+name: Highlight Selected Lines
+plugin-type: plugin
+source: https://github.com/kookma/TW-Hsl
+title: $:/plugins/kookma/hsl
+type: application/json
+version: 1.0.1

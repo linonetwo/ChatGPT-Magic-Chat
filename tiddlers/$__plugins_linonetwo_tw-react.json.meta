@@ -1,0 +1,10 @@
+author: LinOnetwo
+core-version: >=5.1.22
+dependents: 
+description: Allow using ReactJS Components in TW widget.
+list: readme
+name: ReactJS
+plugin-type: plugin
+title: $:/plugins/linonetwo/tw-react
+type: application/json
+version: 0.4.3

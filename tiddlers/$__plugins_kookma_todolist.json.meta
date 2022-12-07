@@ -1,0 +1,11 @@
+author: Mohammad Rahmani
+core-version: >=5.1.23
+dependents: 
+description: Organize, prioritize, and plan your work
+list: readme license history
+name: Todolist
+plugin-type: plugin
+source: https://github.com/kookma/TW-Todolist
+title: $:/plugins/kookma/todolist
+type: application/json
+version: 1.4.0

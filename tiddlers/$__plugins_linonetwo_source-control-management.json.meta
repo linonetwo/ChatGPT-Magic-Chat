@@ -1,0 +1,10 @@
+author: LinOnetwo
+core-version: >=5.1.22
+dependents: 
+description: Use TiddlyGit's NodeJS API to sync data to git on the cloud
+list: readme
+name: NodeJS Wiki TiddlyGit Github Sync
+plugin-type: plugin
+title: $:/plugins/linonetwo/source-control-management
+type: application/json
+version: 0.1.4

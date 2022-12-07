@@ -1,0 +1,13 @@
+created: 20211202063626412
+creator: 林一二
+list-after: $:/core/ui/ViewTemplate/body
+modified: 20220919022608297
+modifier: 林一二
+tags: 
+title: $:/plugins/kookma/utility/viewtemplates/reveal-code
+type: text/vnd.tiddlywiki
+
+<$reveal type="nomatch" stateTitle=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
+<$transclude tiddler="$:/plugins/kookma/utility/macros/reveal-code" />
+</$reveal>
+<!--This viewtemplate uses the code in $:/plugins/kookma/utility/macros/reveal-code tiddler. The reason is this tiddler will change tag and so on plugin update user may miss to delete it to be updated to latest version.-->

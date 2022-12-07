@@ -1,0 +1,13 @@
+author: Mohammad Rahmani
+core-version: >=5.1.22
+created: 20211027175557980
+dependents: 
+description: batch processing tiddlers
+list: readme history license authors
+modified: 20211027175557980
+name: Tiddler Commander
+plugin-type: plugin
+source: https://github.com/kookma/TW-Commander
+title: $:/plugins/kookma/commander
+type: application/json
+version: 2.1.3

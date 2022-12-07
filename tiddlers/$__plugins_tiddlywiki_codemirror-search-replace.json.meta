@@ -1,0 +1,9 @@
+dependents: 
+description: Search and replace for CodeMirror
+list: readme
+name: CodeMirror Search and Replace
+parent-plugin: $:/plugins/tiddlywiki/codemirror
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/codemirror-search-replace
+type: application/json
+version: 5.2.1

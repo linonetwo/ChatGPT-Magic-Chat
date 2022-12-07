@@ -1,0 +1,9 @@
+dependents: $:/plugins/tiddlywiki/codemirror-mode-xml $:/plugins/tiddlywiki/codemirror-mode-javascript $:/plugins/tiddlywiki/codemirror-mode-css
+description: HTML mixed highlighting mode for CodeMirror
+list: readme
+name: CodeMirror Mode HTML Mixed
+parent-plugin: $:/plugins/tiddlywiki/codemirror
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/codemirror-mode-htmlmixed
+type: application/json
+version: 5.2.1

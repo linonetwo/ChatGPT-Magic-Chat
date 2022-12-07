@@ -1,0 +1,9 @@
+dependents: $:/plugins/tiddlywiki/codemirror-mode-css
+description: Autocompletion for CodeMirror
+list: readme
+name: CodeMirror Autocomplete
+parent-plugin: $:/plugins/tiddlywiki/codemirror
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/codemirror-autocomplete
+type: application/json
+version: 5.2.1

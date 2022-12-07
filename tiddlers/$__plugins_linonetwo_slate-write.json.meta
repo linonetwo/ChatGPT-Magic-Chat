@@ -1,0 +1,10 @@
+author: LinOnetwo
+core-version: >=5.1.22
+dependents: $:/plugins/linonetwo/tw-react
+description: A WYSIWYG editor for TiddlyWiki
+list: readme develop
+name: Slate Write
+plugin-type: plugin
+title: $:/plugins/linonetwo/slate-write
+type: application/json
+version: 0.3.3
