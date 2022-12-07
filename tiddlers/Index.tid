@@ -1,0 +1,7 @@
+title: Index
+
+<$list filter="[tag<currentTiddler>]">
+
+!!! <$link><<currentTiddler>></$link>
+
+</$list>
