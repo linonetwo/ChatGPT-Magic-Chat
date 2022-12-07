@@ -1,0 +1,10 @@
+author: LinOnetwo
+core-version: >=5.1.22
+dependents: 
+description: Show a list of template when you create a new tiddler 在新建条目时展示一系列可用模板
+list: Readme Readme-zh_CN
+name: Template List 模板列表
+plugin-type: plugin
+title: $:/plugins/linonetwo/template-list
+type: application/json
+version: 0.1.2

@@ -1,0 +1,10 @@
+author: LinOnetwo
+core-version: >=5.1.22
+dependents: 
+description: (Requires TidGi) A toolbar button to open PDF tiddler in os default reader.
+list: readme
+name: Open In External App
+plugin-type: plugin
+title: $:/plugins/linonetwo/open-in-external-app
+type: application/json
+version: 0.0.4

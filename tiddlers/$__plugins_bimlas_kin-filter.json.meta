@@ -1,0 +1,12 @@
+author: bimlas
+core-version: >=5.1.18
+created: 20211017092822775
+dependents: 
+description: Kin filter: Recursively looking for kinship between tiddler titles
+list: README/syntax README/examples
+modified: 20211017092822775
+plugin-type: plugin
+source: https://gitlab.com/bimlas/tw5-kin-filter
+title: $:/plugins/bimlas/kin-filter
+type: application/json
+version: 1.0.0

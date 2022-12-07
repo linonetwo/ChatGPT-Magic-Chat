@@ -1,0 +1,10 @@
+caption: TheBrain
+created: 20211220184056323
+creator: Sttot
+modified: 20220416065030178
+modifier: Sttot
+tags: $:/tags/SideBar
+title: TheBrain
+type: text/vnd.tiddlywiki
+
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" aliasField="caption" levels="2" graphTitle="The Barin View" $height="100%" />

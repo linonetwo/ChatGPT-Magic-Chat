@@ -1,0 +1,10 @@
+author: Gk0Wk
+dependents: 
+description: Use the cursor to resize the width of the sidebar.
+list: readme
+name: Sidebar Resizer
+plugin-type: plugin
+source: https://github.com/Gk0Wk/TiddlySeq/tree/master/plugins/Gk0Wk/sidebar-resizer
+title: $:/plugins/Gk0Wk/sidebar-resizer
+type: application/json
+version: 0.0.3

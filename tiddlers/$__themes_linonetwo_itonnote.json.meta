@@ -1,0 +1,10 @@
+author: LinOnetwo
+core-version: >=5.0.0
+dependents: $:/themes/tiddlywiki/vanilla
+description: Notion and VSCode inspired theme
+name: ItonNote Theme
+plugin-priority: 1
+plugin-type: theme
+title: $:/themes/linonetwo/itonnote
+type: application/json
+version: 0.2.7

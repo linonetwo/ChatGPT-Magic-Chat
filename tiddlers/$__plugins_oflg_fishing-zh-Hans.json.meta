@@ -1,0 +1,11 @@
+author: oflg
+core-version: >=5.2.3
+dependents: $:/plugins/oflg/fishing
+description: Fishing Chinese (Simplified)
+list: readme license
+name: Fishing zh-Hans
+parent-plugin: $:/plugins/oflg/fishing
+plugin-type: plugin
+title: $:/plugins/oflg/fishing-zh-Hans
+type: application/json
+version: 0.4.5

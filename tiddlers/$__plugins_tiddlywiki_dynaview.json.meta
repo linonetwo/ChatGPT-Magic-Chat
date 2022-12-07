@@ -1,0 +1,8 @@
+dependents: 
+description: Dynamic scrolling and zooming effects
+list: readme docs examples config
+name: Dynaview
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/dynaview
+type: application/json
+version: 5.2.1

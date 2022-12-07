@@ -1,0 +1,9 @@
+dependents: 
+description: Close brackets for CodeMirror
+list: readme
+name: CodeMirror Close Brackets
+parent-plugin: $:/plugins/tiddlywiki/codemirror
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/codemirror-closebrackets
+type: application/json
+version: 5.2.1

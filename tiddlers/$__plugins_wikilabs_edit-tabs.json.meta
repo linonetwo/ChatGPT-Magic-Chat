@@ -1,0 +1,10 @@
+author: Mario Pietsch
+core-version: >=5.1.15
+dependents: 
+description: Internal link- or edit-buttons are added to tabs if selected
+list: readme history license
+name: Edit Tabs
+plugin-type: plugin
+title: $:/plugins/wikilabs/edit-tabs
+type: application/json
+version: 3.0.0

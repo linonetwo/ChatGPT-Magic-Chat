@@ -1,0 +1,42 @@
+name: Deploy Tiddlywiki To Github Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: '16'
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            **/node_modules
+          key: ${{ runner.os }}-${{ hashFiles('**/package.json') }}
+      - name: Install Dependency
+        run: npm install
+      - name: Build
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: ./public-dist
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1

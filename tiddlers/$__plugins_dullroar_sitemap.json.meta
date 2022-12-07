@@ -1,0 +1,11 @@
+author: Jim Lehmer
+core-version: >=5.0.8
+created: 20211017092821582
+dependents: 
+description: TiddlyWiki5 plugin to generate sitemap.xml.
+modified: 20211017092821582
+plugin-type: plugin
+source: https://github.com/dullroar/TW5-sitemap
+title: $:/plugins/dullroar/sitemap
+type: application/json
+version: 0.0.2

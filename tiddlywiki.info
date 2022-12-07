@@ -1,0 +1,56 @@
+{
+  "description": "Basic client-server edition",
+  "plugins": [],
+  "themes": [
+    "tiddlywiki/vanilla"
+  ],
+  "languages": [
+    "zh-Hans"
+  ],
+  "build": {
+    "index": [
+      "--rendertiddler",
+      "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+      "index.html",
+      "text/plain"
+    ],
+    "externalimages": [
+      "--setfield",
+      "[is[binary]] [type[application/msword]]",
+      "_canonical_uri",
+      "$:/core/templates/canonical-uri-external-image",
+      "text/plain",
+      "--setfield",
+      "[is[binary]] [type[application/msword]]",
+      "text",
+      "",
+      "text/plain",
+      "--rendertiddler",
+      "$:/core/save/all",
+      "index.html",
+      "text/plain"
+    ],
+    "readonlyexternalimages": [
+      "--setfield",
+      "[is[binary]] [type[application/msword]]",
+      "_canonical_uri",
+      "$:/core/templates/canonical-uri-external-image",
+      "text/plain",
+      "--setfield",
+      "[is[binary]] [type[application/msword]] [[$:/plugins/linonetwo/slate-write]] [[$:/plugins/linonetwo/smart-field]] [[$:/plugins/linonetwo/markdown-transformer]] [[$:/plugins/gt6796c/mermaid-tw5]] [[$:/plugins/linonetwo/tw-mobile-sync]] [[$:/plugins/linonetwo/zx-script]] [[$:/plugins/tiddlywiki/highlight]] [[$:/plugins/tiddlywiki/markdown]] [prefix[$:/plugins/tiddlywiki/codemirror]] [[$:/plugins/Gk0Wk/TW5-CodeMirror-Enhanced]] [[$:/plugins/flibbles/relink]] [[$:/plugins/kookma/commander]] [[$:/plugins/kookma/section]]",
+      "text",
+      "",
+      "text/plain",
+      "--rendertiddler",
+      "$:/core/save/all-external-js",
+      "index.html",
+      "text/plain"
+    ],
+    "externaljs": [
+      "--rendertiddler",
+      "$:/core/templates/tiddlywiki5.js",
+      "tiddlywiki5.js",
+      "text/plain"
+    ]
+  }
+}

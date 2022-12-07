@@ -1,0 +1,12 @@
+author: LinOnetwo
+core-version: >=5.1.22
+created: 20211017093003558
+dependents: 
+description: Allow you make some tiddlers private, and store them in a private repo.
+list: readme
+modified: 20211017093003558
+name: Private Tiddlers In Private Repo
+plugin-type: plugin
+title: $:/plugins/linonetwo/sub-wiki
+type: application/json
+version: 0.0.1

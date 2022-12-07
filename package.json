@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "zx ./scripts/build-wiki.mjs"
+  },
+  "dependencies": {
+    "@tiddlygit/tiddlywiki": "5.2.3-prerelease-2022-04-09"
+  },
+  "devDependencies": {
+    "html-minifier-terser": "7.1.0",
+    "shx": "0.3.4",
+    "workbox-cli": "6.5.3",
+    "zx": "^7.0.0"
+  }
+}

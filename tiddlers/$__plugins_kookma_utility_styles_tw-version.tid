@@ -1,0 +1,16 @@
+created: 20180906042308596
+creator: 林一二
+modified: 20220919022615897
+modifier: 林一二
+tags: $:/tags/Stylesheet
+title: $:/plugins/kookma/utility/styles/tw-version
+type: text/vnd.tiddlywiki
+
+/* TW-version added to site title */
+.tc-site-title:before {
+  content:"TW <<version>>";
+  position:absolute;
+  margin-top:-1.9em;
+  color:silver;
+  font-size:13px;
+}

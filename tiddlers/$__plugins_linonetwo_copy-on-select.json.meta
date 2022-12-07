@@ -1,0 +1,10 @@
+author: LinOnetwo
+core-version: >=5.1.22
+dependents: 
+description: Copy what you are selecting inside the wiki into the clipboard when holding mouse for 1 second
+list: readme
+name: copy-on-select
+plugin-type: plugin
+title: $:/plugins/linonetwo/copy-on-select
+type: application/json
+version: 0.1.1
